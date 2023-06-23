@@ -7,6 +7,7 @@ Expect this repo to change as I start automating processes.
 
 ## Notice that each directory is numbered:
 This is because I have to do things in a certain order.
+(the first real thing to do is install longhorn and set as default storage class)
 1. metallb
 2. traefik
 3. cert-manager
